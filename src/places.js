@@ -1,7 +1,7 @@
 const Loader = require("@googlemaps/js-api-loader").Loader
 
 const loader = new Loader({
-    apiKey: "AIzaSyDfuVx0OlVZMtM6OaYTdtBSnIKG8nG7AYE",
+    apiKey: "KEY",
     version: "weekly",
 });
 
